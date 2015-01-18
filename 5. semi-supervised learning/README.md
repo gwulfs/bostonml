@@ -1,7 +1,7 @@
 **Semi-Supervised Learning - Eli Brown, Tufts & Microsoft Research**
 ===================
 
-![lane](http://i.imgur.com/mk1eQ24.jpg)
+![lane](http://i.imgur.com/kJzIJdi.png)
 
 Slides: http://goo.gl/jIwMzc
 
