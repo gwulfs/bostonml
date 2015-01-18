@@ -1,3 +1,10 @@
+**Intro to Data Science - Imran Malek, DataXu**
+===================
+
+![plots](http://i.imgur.com/0wJnjgZ.png)
+
+http://nbviewer.ipython.org/github/gwulfs/Data-Science-Club/blob/master/1.%20intro/intro.ipynb
+
 Imran Malek, Systems Engineer at DataXu's workshop introducing Data Science with Python.
 
 This year, at both the Boston Data Conference and the Tufts Data Science club Imran Malek gave a talk on the basics of iPython and how people can use iPython in conjunction with publicly available data sets to generate interesting visualizations.

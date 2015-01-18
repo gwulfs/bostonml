@@ -1,3 +1,8 @@
+**Lightening Talks**
+===================
+
+![lightening](http://i.imgur.com/AWUeSdN.png)
+
 Abstracts: 
 
 - Joe Cauteruccio - Introduction to Apache Spark
