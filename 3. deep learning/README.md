@@ -1,7 +1,7 @@
 **Deep Learning - Alec Radford, indico**
 ===================
 
-![convnet](http://i.imgur.com/arsZs5t.gif)
+![convnet](http://i.imgur.com/tD8FPcs.gif)
 
 Workshop lead by Alec Radford, Head of Research at Indico Data Solutions, on deep learning using Python's Theano Library. The emphasis of the talk was on high performance computing, computer vision (using convolutional neural nets), and large scale learning with GPUs.
 
