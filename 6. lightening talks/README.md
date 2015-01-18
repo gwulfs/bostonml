@@ -25,4 +25,4 @@ Bios:
 
 - Alva Couch is an Associate Professor of Computer Science at Tufts University. A long-time expert in systems management, Alva is currently solving the problems that come with scaling data management for scientific data.
 
-- Gideon Wulfsohn is a CS student at Tufts working on eos2.io and Startup.ML
+- Gideon Wulfsohn is a CS student at Tufts working on www.eos2.io and www.Startup.ML
