@@ -7,7 +7,7 @@
 
 #2. Web Scraping - Marcus Way, Wanderu
 
-![marcus](http://i.imgur.com/HbFgK4a.jpg)
+![marcus](http://i.imgur.com/TiOGQv6.png)
 
 #3. Deep Learning - Alec Radford, indico
 
