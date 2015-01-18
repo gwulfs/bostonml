@@ -7,11 +7,11 @@ Abstracts:
 
 - Joe Cauteruccio - Introduction to Apache Spark
 
-http://goo.gl/3pSkvD
+Slides: http://goo.gl/3pSkvD
 
 - Greg Lipstein and Peter Bull - Data science for social impact
 
-http://goo.gl/Ydobd6
+Slides: http://goo.gl/Ydobd6
 
 - Josh Lemaitre - Machine learning to predict patent litigation
 
@@ -19,7 +19,7 @@ http://goo.gl/Ydobd6
 
 - Gideon Wulfsohn - Email natural language processing
 
-http://goo.gl/zsgQbx
+Slides: http://goo.gl/zsgQbx
 
 Bios: 
 

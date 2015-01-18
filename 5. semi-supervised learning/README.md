@@ -3,7 +3,7 @@
 
 ![lane](http://i.imgur.com/mk1eQ24.jpg)
 
-http://goo.gl/jIwMzc
+Slides: http://goo.gl/jIwMzc
 
 Eli Brown's talk on interactive machine learning, focusing on his research using interactive visualizations to help users leverage machine learners.
 

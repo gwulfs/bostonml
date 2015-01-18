@@ -3,7 +3,7 @@
 
 ![lane](http://i.imgur.com/mk1eQ24.jpg)
 
-http://goo.gl/ro4wqB
+Slides: http://goo.gl/ro4wqB
 
 Lane Harrison's workshop on Data Visualization using d3.js. 
 
