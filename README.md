@@ -21,6 +21,6 @@
 
 ![eli](http://i.imgur.com/kJzIJdi.png)
 
-#6. Lightening Talks
+#6. Lightning Talks
 
-![lightening](http://i.imgur.com/AWUeSdN.png)
+![lightning](http://i.imgur.com/AWUeSdN.png)

@@ -1,7 +1,7 @@
-**Lightening Talks**
+**Lightning Talks**
 ===================
 
-![lightening](http://i.imgur.com/AWUeSdN.png)
+![lightning](http://i.imgur.com/AWUeSdN.png)
 
 Abstracts: 
 
