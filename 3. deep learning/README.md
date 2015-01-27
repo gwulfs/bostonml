@@ -10,3 +10,5 @@ Slides: http://goo.gl/VvIw97
 Video: https://www.youtube.com/watch?v=S75EdAcXHKk
 
 http://indico.io
+
+More Theano Tutorials: https://github.com/Newmu/Theano-Tutorials
