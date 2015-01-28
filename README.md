@@ -11,7 +11,7 @@
 
 #3. Deep Learning - Alec Radford, indico
 
-![convnet](http://i.imgur.com/tD8FPcs.gif)
+![convnet](http://i.imgur.com/L3lOfoH.png)
 
 #4. Data Visualization - Lane Harrison, Tufts
 
