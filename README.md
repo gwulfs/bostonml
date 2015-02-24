@@ -24,3 +24,7 @@
 #6. Lightning Talks
 
 ![lightning](http://i.imgur.com/AWUeSdN.png)
+
+#7. Dealing with Temporal Clinical Data - Marzyeh Ghassemi, MIT CSAIL
+
+![tempd](http://i.imgur.com/bTLzIfm.png)
