@@ -1,7 +1,7 @@
 **Intro to Data Science - Imran Malek, DataXu**
 ===================
 
-![plots](http://i.imgur.com/0wJnjgZ.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/0wJnjgZ.png"></a>
 
 http://nbviewer.ipython.org/github/gwulfs/Data-Science-Club/blob/master/1.%20intro/intro.ipynb
 

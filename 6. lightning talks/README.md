@@ -1,7 +1,7 @@
 **Lightning Talks**
 ===================
 
-![lightning](http://i.imgur.com/AWUeSdN.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/6.%20lightning%20talks"><img src="http://i.imgur.com/AWUeSdN.png"></a>
 
 Abstracts: 
 

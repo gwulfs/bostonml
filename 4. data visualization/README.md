@@ -1,7 +1,7 @@
 **Data Visualization - Lane Harrison, Tufts**
 ===================
 
-![lane](http://i.imgur.com/mk1eQ24.jpg)
+<a href="https://github.com/gwulfs/bostonml/tree/master/4.%20data%20visualization"><img src="http://i.imgur.com/mk1eQ24.jpg"></a>
 
 Slides: http://goo.gl/ro4wqB
 

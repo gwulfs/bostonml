@@ -1,30 +1,34 @@
 **Boston Machine Learning**
 ===================
 
-#1. Intro to Data Science - Imran Malek, DataXu
+##1. Intro to Data Science - Imran Malek, DataXu
 
-![plots](http://i.imgur.com/0wJnjgZ.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/0wJnjgZ.png"></a>
 
-#2. Web Scraping - Marcus Way, Wanderu
+##2. Web Scraping - Marcus Way, Wanderu
 
-![marcus](http://i.imgur.com/TiOGQv6.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/2.%20scraping"><img src="http://i.imgur.com/TiOGQv6.png"></a>
 
-#3. Deep Learning - Alec Radford, indico
+##3. Deep Learning - Alec Radford, indico
 
-![convnet](http://i.imgur.com/L3lOfoH.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/3.%20deep%20learning"><img src="http://i.imgur.com/L3lOfoH.png"></a>
 
-#4. Data Visualization - Lane Harrison, Tufts
+##4. Data Visualization - Lane Harrison, Tufts
 
-![lane](http://i.imgur.com/mk1eQ24.jpg)
+<a href="https://github.com/gwulfs/bostonml/tree/master/4.%20data%20visualization"><img src="http://i.imgur.com/mk1eQ24.jpg"></a>
 
-#5. Semi-Supervised Learning - Eli Brown, Tufts & Microsoft Research
+##5. Semi-Supervised Learning - Eli Brown, Tufts & Microsoft Research
 
-![eli](http://i.imgur.com/kJzIJdi.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/5.%20semi-supervised%20learning"><img src="http://i.imgur.com/kJzIJdi.png"></a>
 
-#6. Lightning Talks
+##6. Lightning Talks
 
-![lightning](http://i.imgur.com/AWUeSdN.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/6.%20lightning%20talks"><img src="http://i.imgur.com/AWUeSdN.png"></a>
 
-#7. Dealing with Temporal Clinical Data - Marzyeh Ghassemi, MIT CSAIL
+##7. Dealing with Temporal Clinical Data - Marzyeh Ghassemi, MIT CSAIL
 
-![tempd](http://i.imgur.com/bTLzIfm.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/bTLzIfm.png"></a>
+
+##8. Hyperparameters, RNNs, and Autotuning
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/FQTXYEZ.png"></a>

@@ -1,7 +1,7 @@
 **Semi-Supervised Learning - Eli Brown, Tufts & Microsoft Research**
 ===================
 
-![lane](http://i.imgur.com/kJzIJdi.png)
+<a href="https://github.com/gwulfs/bostonml/tree/master/5.%20semi-supervised%20learning"><img src="http://i.imgur.com/kJzIJdi.png"></a>
 
 Slides: http://goo.gl/jIwMzc
 
