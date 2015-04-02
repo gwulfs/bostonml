@@ -1,7 +1,7 @@
 **Bayes Theorem & Bayesian Optimization**
 ===================
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/8.%20hyperparameters%2C%20RNNs%2C%20and%20autotuning"><img src="http://i.imgur.com/LstDLV1.jpg"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/9.%20bayes%20theorem%20%26%20bayesian%20optimization"><img src="http://i.imgur.com/LstDLV1.jpg"></a>
 
 ##Talks:
 
