@@ -27,7 +27,7 @@
 
 ##7. Dealing with Temporal Clinical Data
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/lnR8Mqi.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/hSyvgPo.png"></a>
 
 ##8. Hyperparameters, RNNs, and Autotuning
 
