@@ -1,7 +1,7 @@
 **Dealing with Temporal Clinical Data**
 ===================
 
-Marzyeh Ghassemi is a Ph.D Student @ MIT CSAIL in the Clinical Decision Making Group.
+[Marzyeh Ghassemi](http://mghassem.mit.edu/) is a Ph.D Student @ MIT CSAIL in the Clinical Decision Making Group.
 
 Introductory workshop on Gaussian Processes & Latent Dirichlet Allocation, before presenting her latest findings:
 
