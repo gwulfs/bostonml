@@ -1,19 +1,17 @@
 **Lightning Talks**
 ===================
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/6.%20lightning%20talks"><img src="http://i.imgur.com/AWUeSdN.png"></a>
-
 Abstracts: 
 
-- Joe Cauteruccio - Introduction to Apache Spark | Slides: http://goo.gl/3pSkvD
+- [Joe Cauteruccio](http://www.joecjr.com/) - Introduction to Apache Spark | [Slides](http://goo.gl/3pSkvD)
 
-- Greg Lipstein and Peter Bull - Data science for social impact | Slides: http://goo.gl/Ydobd6
+- [Peter Bull](http://bull.pe/ter/) - Data science for social impact | [Slides](http://goo.gl/Ydobd6)
 
-- Josh Lemaitre - Machine learning to predict patent litigation
+- [Josh Lemaitre](https://www.linkedin.com/in/joshlemaitre) - Machine learning to predict patent litigation
 
-- Alva Couch - Challenges in geo-data sharing
+- [Alva Couch](http://www.cs.tufts.edu/~couch/) - Challenges in geo-data sharing
 
-- Gideon Wulfsohn - Email natural language processing | Slides: http://goo.gl/zsgQbx
+- [Gideon Wulfsohn](http://gideon.ml/) - Email Minig Pipeline | [Slides](http://goo.gl/zsgQbx)
 
 Bios: 
 
@@ -21,8 +19,8 @@ Bios:
 
 - Josh Lemaitre is a Senior Data Scientist at Thomson Reuters.
 
-- Greg Lipstein and Peter Bull are co-founders of DrivenData. Greg is a student at HBS and Peter recently graduated from Harvard’s computational science program. 
+- Peter Bull is a cofounder of DrivenData, and recently graduated from Harvard’s Computational Science Program. 
 
 - Alva Couch is an Associate Professor of Computer Science at Tufts University. A long-time expert in systems management, Alva is currently solving the problems that come with scaling data management for scientific data.
 
-- Gideon Wulfsohn is a CS student at Tufts working on www.eos2.io and www.Startup.ML
+- Gideon Wulfsohn is a CS student at Tufts
