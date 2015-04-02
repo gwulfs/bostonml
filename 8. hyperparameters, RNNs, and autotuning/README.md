@@ -13,7 +13,7 @@ slides: https://drive.google.com/file/d/0BwC1eSaTX5cZWjZBM3V2Umw4RnM/view?usp=sh
 
 ###[Alec Radford](github.com/newmu) - Using Passage to Train RNNs
 
-https://docs.google.com/presentation/d/1HYfUZLRZRJovQpv5mYxox9bz9erxj7Ak_ZovENMvM90/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1HYfUZLRZRJovQpv5mYxox9bz9erxj7Ak_ZovENMvM90/edit?usp=sharing
 
 ###[Alex Wiltschko](https://github.com/alexbw) - Auto Tuning ML Algorithms with Whetlab
 

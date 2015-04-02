@@ -32,3 +32,7 @@
 ##8. Hyperparameters, RNNs, and Autotuning
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/8.%20hyperparameters%2C%20RNNs%2C%20and%20autotuning"><img src="http://i.imgur.com/FQTXYEZ.png"></a>
+
+##9. Bayes Theorem & Bayesian Optimization
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/8.%20hyperparameters%2C%20RNNs%2C%20and%20autotuning"><img src="http://i.imgur.com/LstDLV1.jpg"></a>
