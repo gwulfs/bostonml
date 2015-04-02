@@ -3,19 +3,19 @@
 
 ##1. Intro to Data Science - Imran Malek, DataXu
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/0wJnjgZ.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/XkqNvRb.png"></a>
 
 ##2. Web Scraping - Marcus Way, Wanderu
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/2.%20scraping"><img src="http://i.imgur.com/TiOGQv6.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/2.%20scraping"><img src="http://i.imgur.com/v0W1btg.png"></a>
 
 ##3. Deep Learning - Alec Radford, indico
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/3.%20deep%20learning"><img src="http://i.imgur.com/L3lOfoH.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/3.%20deep%20learning"><img src="http://i.imgur.com/cwyA0pD.png"></a>
 
 ##4. Data Visualization - Lane Harrison, Tufts
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/4.%20data%20visualization"><img src="http://i.imgur.com/mk1eQ24.jpg"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/4.%20data%20visualization"><img src="http://i.imgur.com/cQtgt7r.jpg"></a>
 
 ##5. Semi-Supervised Learning - Eli Brown, Tufts & Microsoft Research
 
@@ -27,7 +27,7 @@
 
 ##7. Dealing with Temporal Clinical Data - Marzyeh Ghassemi, MIT CSAIL
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/UX9p92t.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/47LoRmE.png"></a>
 
 ##8. Hyperparameters, RNNs, and Autotuning
 
