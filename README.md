@@ -3,7 +3,7 @@
 
 ##1. Intro to Data Science
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/XkqNvRb.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/1.%20intro"><img src="http://i.imgur.com/sOyU3Zq.png"></a>
 
 ##2. Web Scraping
 
