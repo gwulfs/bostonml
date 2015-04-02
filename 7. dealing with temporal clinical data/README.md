@@ -1,7 +1,7 @@
 **Dealing with Temporal Clinical Data**
 ===================
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/bTLzIfm.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/UX9p92t.png"></a>
 
 Marzyeh Ghassemi is a Ph.D Student @ MIT CSAIL in the Clinical Decision Making Group.
 

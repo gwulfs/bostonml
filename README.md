@@ -27,11 +27,11 @@
 
 ##7. Dealing with Temporal Clinical Data - Marzyeh Ghassemi, MIT CSAIL
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/bTLzIfm.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/7.%20dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/UX9p92t.png"></a>
 
 ##8. Hyperparameters, RNNs, and Autotuning
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/8.%20hyperparameters%2C%20RNNs%2C%20and%20autotuning"><img src="http://i.imgur.com/FQTXYEZ.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/8.%20hyperparameters%2C%20RNNs%2C%20and%20autotuning"><img src="http://i.imgur.com/3Q4B89y.png"></a>
 
 ##9. Bayes Theorem & Bayesian Optimization
 
