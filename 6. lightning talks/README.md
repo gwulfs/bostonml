@@ -11,7 +11,7 @@ Abstracts:
 
 - [Alva Couch](http://www.cs.tufts.edu/~couch/) - Challenges in geo-data sharing
 
-- [Gideon Wulfsohn](http://gideon.ml/) - Email Minig Pipeline | [Slides](http://goo.gl/zsgQbx)
+- [Gideon Wulfsohn](http://gwulfs.github.io/) - Email Minig Pipeline | [Slides](http://goo.gl/zsgQbx)
 
 Bios: 
 
