@@ -5,7 +5,7 @@
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/intro"><img src="http://i.imgur.com/sOyU3Zq.png"></a>
 
-##[Web Scraping](http://i.imgur.com/v0W1btg.png)
+##[Web Scraping](https://github.com/gwulfs/bostonml/tree/master/scraping)
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/scraping"><img src="http://i.imgur.com/v0W1btg.png"></a>
 
