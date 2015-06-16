@@ -36,3 +36,11 @@
 ##9. Bayes Theorem & Bayesian Optimization
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/9.%20bayes%20theorem%20%26%20bayesian%20optimization"><img src="http://i.imgur.com/LstDLV1.jpg"></a>
+
+##10. Next.ML
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/10.%20next.ml"><img src="http://i.imgur.com/ZEaJi0M.png"></a>
+
+##11. Disributed Machine Learning
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/10.%20next.ml"><img src="http://i.imgur.com/V5PRSya.png"></a>
