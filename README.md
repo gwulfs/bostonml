@@ -11,7 +11,7 @@
 
 ##[Theano](https://github.com/gwulfs/bostonml/tree/master/theano)
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/deep%20learning"><img src="http://i.imgur.com/cwyA0pD.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/theano"><img src="http://i.imgur.com/cwyA0pD.png"></a>
 
 ##[Data Visualization](https://github.com/gwulfs/bostonml/tree/master/data%20visualization)
 
