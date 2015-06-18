@@ -9,7 +9,7 @@
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/scraping"><img src="http://i.imgur.com/v0W1btg.png"></a>
 
-##[Deep Learning](https://github.com/gwulfs/bostonml/tree/master/deep%20learning)
+##[Theano](https://github.com/gwulfs/bostonml/tree/master/theano)
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/deep%20learning"><img src="http://i.imgur.com/cwyA0pD.png"></a>
 

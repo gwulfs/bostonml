@@ -1,4 +1,4 @@
-**Data Visualization - Lane Harrison, Tufts**
+**Data Visualization**
 ===================
 
 [Lane Harrison](http://codementum.org/)'s workshop on Data Visualization with d3.js | [Slides](http://goo.gl/ro4wqB)

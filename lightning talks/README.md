@@ -5,11 +5,11 @@ Abstracts:
 
 - [Joe Cauteruccio](http://www.joecjr.com/) - Introduction to Apache Spark | [Slides](http://goo.gl/3pSkvD)
 
-- [Peter Bull](http://bull.pe/ter/) - Data science for social impact | [Slides](http://goo.gl/Ydobd6)
+- [Peter Bull](http://bull.pe/ter/) - Data Science for Social Impact | [Slides](http://goo.gl/Ydobd6)
 
-- [Josh Lemaitre](https://www.linkedin.com/in/joshlemaitre) - Machine learning to predict patent litigation
+- [Josh Lemaitre](https://www.linkedin.com/in/joshlemaitre) - Machine Learning to Predict Patent Litigation
 
-- [Alva Couch](http://www.cs.tufts.edu/~couch/) - Challenges in geo-data sharing
+- [Alva Couch](http://www.cs.tufts.edu/~couch/) - Challenges in Geo-Data sharing
 
 - [Gideon Wulfsohn](http://gwulfs.github.io/) - Email Minig Pipeline | [Slides](http://goo.gl/zsgQbx)
 

@@ -1,4 +1,4 @@
-**Web Scraping - Marcus Way, Wanderu**
+**Web Scraping**
 ===================
 
-[Marcus Way](https://twitter.com/marcus_way)'s workshop on web scraping. Wanderu uses web scraping to store bus ticket data and automate the purchasing of tickets through partnering sites. This workshops takes us through the process of aquiring data from the web and building a model to predict where article titles originate from. [Notebook](http://nbviewer.ipython.org/github/gwulfs/bostonml/blob/master/2.%20scraping/scraping.ipynb?flush_cache=true)
+[Marcus Way](https://twitter.com/marcus_way)'s is a software engineer at Wanderu, a company that uses web scraping to store bus ticket data to help people buy tickets through partnering sites. This workshop took us through the process of aquiring data from the web and building a model to predict where an article's title originated from.
