@@ -44,3 +44,7 @@
 ##[Disributed Machine Learning](https://github.com/gwulfs/bostonml/tree/master/distributed%20machine%20learning)
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/distributed%20machine%20learning"><img src="http://i.imgur.com/V5PRSya.png"></a>
+
+##[Dimentionality Reduction](https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction)
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction"><img src="http://i.imgur.com/VhVWy2O.png"></a>
