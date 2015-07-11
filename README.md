@@ -47,4 +47,4 @@
 
 ##[Dimentionality Reduction](https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction)
 
-<a href="https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction"><img src="http://i.imgur.com/VhVWy2O.png"></a>
+<a href="https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction"><img src="http://i.imgur.com/QxDzHKK.png"></a>
