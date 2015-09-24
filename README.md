@@ -48,3 +48,7 @@
 ##[Dimentionality Reduction](https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction)
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/dimensionality%20reduction"><img src="http://i.imgur.com/QxDzHKK.png"></a>
+
+##[Modeling Sensor Data](https://github.com/gwulfs/bostonml/tree/master/modeling%20sensor%20data)
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/modeling%20sensor%20data"><img src="http://i.imgur.com/Ys6qsIu.png"></a>
