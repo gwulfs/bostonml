@@ -52,3 +52,7 @@
 ##[Modeling Sensor Data](https://github.com/gwulfs/bostonml/tree/master/modeling%20sensor%20data)
 
 <a href="https://github.com/gwulfs/bostonml/tree/master/modeling%20sensor%20data"><img src="http://i.imgur.com/Ys6qsIu.png"></a>
+
+##[Introduction to Markov Decision Processes](https://github.com/gwulfs/bostonml/tree/master/markov%20decision%20process)
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/markov%20decision%20process"><img src="http://i.imgur.com/m5hBr2m.png"></a>
