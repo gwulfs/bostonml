@@ -8,3 +8,5 @@ Marzyeh's workshop introduced gaussian processes & latent dirichlet allocation, 
 KDD 2014 - Unfolding Physiological State: Mortality Modeling in Intensive Care Units
 
 AAAI 2015 - A Multivariate Timeseries Modeling Approach to Severity of Illness Assessment and Forecasting in ICU with Sparse, Heterogeneous Clinical Data
+
+<a href="https://github.com/gwulfs/bostonml/tree/master/dealing%20with%20temporal%20clinical%20data"><img src="http://i.imgur.com/hSyvgPo.png"></a>
