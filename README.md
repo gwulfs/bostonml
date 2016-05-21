@@ -95,7 +95,7 @@
 
 * [José Miguel Hernández Lobato](http://jmhl.org) is a Postdoc at Harvard's [Intelligent Probabilistic Systems Lab](http://hips.seas.harvard.edu) and presented on bayesian optimization and information-based approaches.  [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZZFptMExPN2dVbDQ/view?usp=sharing)
 
-<p align="center"><img src="http://i.imgur.com/lZmJLkv.png" width="350" align="middle"></p>
+<p align="center"><img src="http://i.imgur.com/6Nn2bPV.png" width="350" align="middle"></p>
 
 <br>
 
