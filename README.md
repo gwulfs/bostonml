@@ -16,6 +16,7 @@
   * [Perception as Analysis by Synthesis](#perception-as-analysis-by-synthesis)
   * [Operationalizing Data Science Output](#operationalizing-data-science-output)
   * [GPU Accelerated Learning](#gpu-accelerated-learning)
+  * [High Dimensional Function Learning](#high-dimensional-function-learning)
 
 
 
