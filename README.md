@@ -154,3 +154,12 @@
 * [Bob Crovella](https://www.linkedin.com/in/robert-crovella-0ab46330) joined NVIDIA in 1998 and leads a technical team that is responsible for supporting GPU Computing Products. His talk began with an introduction to why GPUs are helpful when training deep neural networks. He then walked through demos of cuDNN and DIGITS from the perspective of how they fit together with frameworks like Caffe, Torch, and Theano. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZdEFaMElEMEhVbmc/view?usp=sharing)
 
 <p align="center"><img src="http://i.imgur.com/fpd8cEs.png?1" width="350" align="middle"></p>
+
+<br>
+
+#### High Dimensional Function Learning
+
+Jason Klusowski is a PhD student at Yale and presented on the computational and theoretical aspects of approximating d-dimensional function. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZQmFPdFVUS285bVk/view?usp=sharing
+)
+
+<p align="center"><img src="http://i.imgur.com/tv9db6p.png" width="350" align="middle"></p>
