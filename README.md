@@ -65,7 +65,7 @@
 
 * [Eli Brown](http://www.eecs.tufts.edu/~ebrown/) is an Assistant Professor of Computer Science at DePaul. His talk focused on using interactive visualizations to help users leverage learning algorithms. [Slides](http://goo.gl/jIwMzc) | [Paper](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6400486)
 
-<p align="center"><img src="http://i.imgur.com/kJzIJdi.png" width="350" align="middle"></p>
+<p align="center"><img src="http://i.imgur.com/kJzIJdi.png?2" width="350" align="middle"></p>
 
 <br>
 
