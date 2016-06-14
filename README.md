@@ -160,7 +160,7 @@
 
 #### High Dimensional Function Learning
 
-Jason Klusowski is a PhD student at Yale and presented on the computational and theoretical aspects of approximating d-dimensional function. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZQmFPdFVUS285bVk/view?usp=sharing
+Jason Klusowski is a PhD student at Yale and presented on the computational and theoretical aspects of approximating d-dimensional functions. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZQmFPdFVUS285bVk/view?usp=sharing
 )
 
 <p align="center"><img src="http://i.imgur.com/tv9db6p.png" width="350" align="middle"></p>
