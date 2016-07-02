@@ -10,6 +10,7 @@
   * [Dealing with Temporal Clinical Data](#dealing-with-temporal-clinical-data)
   * [RNNs and Hyperparameters](#rnns-and-hyperparameters)
   * [Bayesian Methods](#bayesian-methods)
+  * [Distributed Learning](#distributed-learning)
   * [Techniques for Dimensionality Reduction](#techniques-for-dimensionality-reduction)
   * [Modeling Sensor Data](#modeling-sensor-data)
   * [Introduction to Markov Decision Processes](#introduction-to-markov-decision-processes)
@@ -101,9 +102,9 @@
 <br>
 
 
-#### Techniques for Dimensionality Reduction
+#### Distributed Learning
 
-* [Arno Candel](https://twitter.com/ArnoCandel) is the Chief Architect at H2o. His talk focused on the implementation and application of distributed machine learning algorithms such as Elastic Net, Random Forest, Gradient Boosting, and Deep Neural Networks | [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZaTA4V0ZqbnRBVjQ/view?usp=sharing)
+* [Arno Candel](https://twitter.com/ArnoCandel) is the Chief Architect at H2o. His talk focused on the implementation and application of distributed machine learning algorithms such as Elastic Net, Random Forest, Gradient Boosting, and Deep Neural Networks. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZaTA4V0ZqbnRBVjQ/view?usp=sharing)
 
 <p align="center"><img src="http://i.imgur.com/V5PRSya.png" width="350" align="middle"></p>
 
