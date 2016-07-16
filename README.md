@@ -18,6 +18,7 @@
   * [Operationalizing Data Science Output](#operationalizing-data-science-output)
   * [GPU Accelerated Learning](#gpu-accelerated-learning)
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
+  * [Basketball Analytics Using Player Tracking Data](#dasketball-analytics-using-player-tracking-data)
 
 
 
@@ -161,8 +162,16 @@
 
 #### High Dimensional Function Learning
 
-Jason Klusowski is a PhD student at Yale and presented on the computational and theoretical aspects of approximating d-dimensional functions. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZQmFPdFVUS285bVk/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=pUR5_XOAMBk&feature=youtu.be)
+* Jason Klusowski is a PhD student at Yale and presented on the computational and theoretical aspects of approximating d-dimensional functions. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZQmFPdFVUS285bVk/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=pUR5_XOAMBk&feature=youtu.be)
 
 <p align="center"><img src="http://i.imgur.com/tv9db6p.png" width="350" align="middle"></p>
+
+<br>
+
+#### Basketball Analytics Using Player Tracking Data
+
+* [Alexander D'Amour](https://twitter.com/alexdamour) is an Assistant Professor in Statistics at UCB, and recently completed his PhD at Harvard. His talk introduced applications of 24-FPS spatial data in the direction of answering fundemantal questions related to the game of basketball. [Slides](https://www.dropbox.com/s/4zstqnz0tshjeqd/BostonML_7-11-2016.pptx?dl=0)
+
+<p align="center"><img src="http://i.imgur.com/6EfzpNv.png" width="350" align="middle"></p>
 
 <br>
