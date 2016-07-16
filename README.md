@@ -18,7 +18,7 @@
   * [Operationalizing Data Science Output](#operationalizing-data-science-output)
   * [GPU Accelerated Learning](#gpu-accelerated-learning)
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
-  * [Basketball Analytics Using Player Tracking Data](#dasketball-analytics-using-player-tracking-data)
+  * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
 
 
 
