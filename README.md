@@ -170,7 +170,7 @@
 
 #### Basketball Analytics Using Player Tracking Data
 
-* [Alexander D'Amour](https://twitter.com/alexdamour) is an Assistant Professor in Statistics at UCB, and recently completed his PhD at Harvard. His talk introduced applications of 24-FPS spatial data in the direction of answering fundemantal questions related to the game of basketball. [Slides](https://www.dropbox.com/s/4zstqnz0tshjeqd/BostonML_7-11-2016.pptx?dl=0)
+* [Alexander D'Amour](https://twitter.com/alexdamour) is an Assistant Professor in Statistics at UCB, and recently completed his PhD at Harvard. His talk introduced applications of 24-FPS spatial data in the direction of answering fundemantal questions related to the game of basketball. [Slides](https://www.dropbox.com/s/4zstqnz0tshjeqd/BostonML_7-11-2016.pptx?dl=0) | [Video](https://www.youtube.com/playlist?list=PLpGSDMrezQWwHJvvOhGF3vSoWB_0RIApR)
 
 <p align="center"><img src="http://i.imgur.com/6EfzpNv.png" width="350" align="middle"></p>
 
