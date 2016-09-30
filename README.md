@@ -19,6 +19,7 @@
   * [GPU Accelerated Learning](#gpu-accelerated-learning)
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
   * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
+  * [TensorFlow in Practice](#tensorflow-in-practice)
 
 
 
@@ -170,8 +171,16 @@
 
 #### Basketball Analytics Using Player Tracking Data
 
-* [Alexander D'Amour](https://twitter.com/alexdamour) is an Assistant Professor in Statistics at UCB, and recently completed his PhD at Harvard. His talk introduced applications of 24-FPS spatial data in the direction of answering fundemantal questions related to the game of basketball. [Slides](https://www.dropbox.com/s/4zstqnz0tshjeqd/BostonML_7-11-2016.pptx?dl=0) | [Video](https://www.youtube.com/watch?v=4kqTBO5KDr4)
+* [Alexander D'Amour](https://twitter.com/alexdamour) is an Assistant Professor in Statistics at UCB, and recently completed his PhD at Harvard. His talk introduced applications of 24-FPS spatial data in the direction of answering fundamental questions related to the game of basketball. [Slides](https://www.dropbox.com/s/4zstqnz0tshjeqd/BostonML_7-11-2016.pptx?dl=0) | [Video](https://www.youtube.com/watch?v=4kqTBO5KDr4)
 
 <p align="center"><img src="http://i.imgur.com/6EfzpNv.png" width="350" align="middle"></p>
+
+<br>
+
+#### TensorFlow in Practice
+
+* [Nathan Lintz](https://twitter.com/nlintz) is a research scientist at indico Data Solutions where he is responsible for developing machine learning systems in the domains of language detection, text summarization, and emotion recognition. His session focused on the first principles of TensorFlow, building all the way up to generative modeling with recurrent networks. [Slides](http://www.slideshare.net/indicods/tensorflow-in-practice) | [Code](https://github.com/nlintz/TensorFlow-Tutorials) | [Video](https://www.youtube.com/watch?v=op1QJbC2g0E)
+
+<p align="center"><img src="http://i.imgur.com/bqDer6e.png" width="350" align="middle"></p>
 
 <br>
