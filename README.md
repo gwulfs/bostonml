@@ -20,6 +20,7 @@
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
   * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
   * [TensorFlow in Practice](#tensorflow-in-practice)
+  * [Virtual Currency Trading](#virtual-currency-trading)
 
 
 
@@ -180,6 +181,14 @@
 #### TensorFlow in Practice
 
 * [Nathan Lintz](https://twitter.com/nlintz) is a research scientist at indico Data Solutions where he is responsible for developing machine learning systems in the domains of language detection, text summarization, and emotion recognition. His session focused on the first principles of TensorFlow, building all the way up to generative modeling with recurrent networks. [Slides](http://www.slideshare.net/indicods/tensorflow-in-practice) | [Code](https://github.com/nlintz/TensorFlow-Tutorials) | [Video](https://www.youtube.com/watch?v=op1QJbC2g0E)
+
+<p align="center"><img src="http://i.imgur.com/bqDer6e.png" width="350" align="middle"></p>
+
+<br>
+
+#### Virtual Currency Trading
+
+* [Anders Brownworth](https://twitter.com/nlintz) is a principle Engineer at Circle and was previously an instructor at the MIT Media Lab. His talk focused on building the intution needed with respect to the blockchain and bitcoin to develop succesful trading stratagies. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZOVhJWVVxZWMyXzg/view?usp=sharing) | [Video](http://anders.com/blockchain)
 
 <p align="center"><img src="http://i.imgur.com/bqDer6e.png" width="350" align="middle"></p>
 
