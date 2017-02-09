@@ -20,6 +20,9 @@
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
   * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
   * [TensorFlow in Practice](#tensorflow-in-practice)
+  * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
+  * [NSFW Modeling with ConvNets](#virtual-currency-trading)
+  * [TensorFlow in Practice](#nsfw-modeling-with-convnets)
 
 
 
