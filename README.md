@@ -20,7 +20,6 @@
   * [High Dimensional Function Learning](#high-dimensional-function-learning)
   * [Basketball Analytics Using Player Tracking Data](#basketball-analytics-using-player-tracking-data)
   * [TensorFlow in Practice](#tensorflow-in-practice)
-  * [Virtual Currency Trading](#virtual-currency-trading)
 
 
 
@@ -198,5 +197,4 @@
 
 * [Ryan Compton](https://twitter.com/rycpt) is a data scientist at Clarifai. His talk used the problem of nudity detection to illustrate the workflow involved with training and evaluating convolutional neural networks. He also discussed deconvolution and demonstrated how it can be used to visualize intermediate feature layers. [Slides](https://docs.google.com/presentation/d/14SNvMFqyqd3qlKvibc06GkB1lLmDutzcr04uJ_LnX4s) | [Video](https://www.youtube.com/watch?v=EhtRDT-3CC4)
 
-<p align="center"><img src="http://i.imgur.com/a/bEnrr.png" width="350" align="middle"></p>
-
+<p align="center"><img src="http://i.imgur.com/3P15W4K.png" width="350" align="middle"></p>
