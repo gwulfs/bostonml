@@ -22,6 +22,7 @@
   * [TensorFlow in Practice](#tensorflow-in-practice)
   * [Virtual Currency Trading](#virtual-currency-trading)
   * [NSFW Modeling with ConvNets](#nsfw-modeling-with-convnets)
+  * [Structured Attention Networks](#structured-attention-networks)
 
 
 
@@ -200,3 +201,9 @@
 * [Ryan Compton](https://twitter.com/rycpt) is a data scientist at Clarifai. His talk used the problem of nudity detection to illustrate the workflow involved with training and evaluating convolutional neural networks. He also discussed deconvolution and demonstrated how it can be used to visualize intermediate feature layers. [Slides](https://docs.google.com/presentation/d/14SNvMFqyqd3qlKvibc06GkB1lLmDutzcr04uJ_LnX4s) | [Video](https://www.youtube.com/watch?v=EhtRDT-3CC4)
 
 <p align="center"><img src="http://i.imgur.com/3P15W4K.png" width="350" align="middle"></p>
+
+#### Structured Attention Networks
+
+* [Yoon Kim](https://yoon.io) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
+
+<p align="center"><img src="http://i.imgur.com/L2DqfeS.png" width="350" align="middle"></p>
