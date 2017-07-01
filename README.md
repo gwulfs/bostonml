@@ -23,6 +23,7 @@
   * [Virtual Currency Trading](#virtual-currency-trading)
   * [NSFW Modeling with ConvNets](#nsfw-modeling-with-convnets)
   * [Structured Attention Networks](#structured-attention-networks)
+  * [Automated Machine Learning](#automated-machine-learning)
 
 
 
@@ -207,3 +208,9 @@
 * [Yoon Kim](https://yoon.io) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
 
 <p align="center"><img src="http://i.imgur.com/L2DqfeS.png" width="350" align="middle"></p>
+
+#### Automated Machine Learning
+
+* [Nicolo Fusi](https://twitter.com/nfusi) is a research scientist at Microsoft Research, working at the intersection of machine learning, computational biology and medicine. He received his PhD in Computer Science from the University of Sheffield under Neil Lawrence. His talk focused on the process of selecting and tuning pipelines consisting of data preprocessing methods and machine learning models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZNUdSeWI0WHBnUzBLOWpsU1VfcFdVeXhxOExj/view?usp=sharing) | [Paper](https://arxiv.org/abs/1705.05355)
+
+<p align="center"><img src="http://i.imgur.com/60r2S1s.png" width="350" align="middle"></p>
