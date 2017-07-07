@@ -27,7 +27,7 @@
 
 
 
-<a href="http://bostonml.com"><img src="http://i.imgur.com/YOQ0xhB.png"></a>
+<img src="http://i.imgur.com/YOQ0xhB.png">
 
 <br>
 
