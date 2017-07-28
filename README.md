@@ -24,6 +24,7 @@
   * [NSFW Modeling with ConvNets](#nsfw-modeling-with-convnets)
   * [Structured Attention Networks](#structured-attention-networks)
   * [Automated Machine Learning](#automated-machine-learning)
+  * [Grounding Natural Language with Autonomous Interaction](#grounding-natural-language-with-autonomous-interaction)
 
 
 
@@ -214,3 +215,10 @@
 * [Nicolo Fusi](https://twitter.com/nfusi) is a research scientist at Microsoft Research, working at the intersection of machine learning, computational biology and medicine. He received his PhD in Computer Science from the University of Sheffield under Neil Lawrence. His talk focused on the process of selecting and tuning pipelines consisting of data preprocessing methods and machine learning models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZNUdSeWI0WHBnUzBLOWpsU1VfcFdVeXhxOExj/view?usp=sharing) | [Paper](https://arxiv.org/abs/1705.05355)
 
 <p align="center"><img src="http://i.imgur.com/60r2S1s.png" width="350" align="middle"></p>
+
+
+#### Grounding Natural Language with Autonomous Interaction
+
+* [Karthik Narasimhan](https://twitter.com/karthik_r_n) is a PhD candidate at CSAIL working on natural language understanding and deep reinforcement learning. His talk focused on task-optimized representations to reduce dependence on  annotation. The session built up to a demonstration of how reinforcement learning can enhance traditional NLP systems in low resource scenarios. In particular, he described an autonomous agent that can learn to acquire and integrate external information to improve information extraction. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZdGNKTi1BTk5VUUE/view?usp=sharing)
+
+<p align="center"><img src="http://i.imgur.com/J14Z7ai.png" width="350" align="middle"></p>
