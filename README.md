@@ -212,7 +212,7 @@
 
 #### Automated Machine Learning
 
-* [Nicolo Fusi](https://twitter.com/nfusi) is a research scientist at Microsoft Research, working at the intersection of machine learning, computational biology and medicine. He received his PhD in Computer Science from the University of Sheffield under Neil Lawrence. His talk focused on the process of selecting and tuning pipelines consisting of data preprocessing methods and machine learning models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZNUdSeWI0WHBnUzBLOWpsU1VfcFdVeXhxOExj/view?usp=sharing) | [Paper](https://arxiv.org/abs/1705.05355)
+* [Nicolo Fusi](https://twitter.com/nfusi) is a research scientist at Microsoft Research, working at the intersection of machine learning, computational biology and medicine. He received his PhD in Computer Science from the University of Sheffield under Neil Lawrence. His talk focused on the process of selecting and tuning pipelines consisting of data preprocessing methods and machine learning models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZNUdSeWI0WHBnUzBLOWpsU1VfcFdVeXhxOExj/view?usp=sharing) | [Paper](https://arxiv.org/abs/1705.05355) | [Video)(https://www.youtube.com/watch?v=5uNi29NUxms)
 
 <p align="center"><img src="http://i.imgur.com/60r2S1s.png" width="350" align="middle"></p>
 
