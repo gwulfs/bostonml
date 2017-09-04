@@ -25,6 +25,7 @@
   * [Structured Attention Networks](#structured-attention-networks)
   * [Automated Machine Learning](#automated-machine-learning)
   * [Grounding Natural Language with Autonomous Interaction](#grounding-natural-language-with-autonomous-interaction)
+  * [Neural Network Design Using RL](#neural-network-design-using-rl)
 
 
 
@@ -222,3 +223,10 @@
 * [Karthik Narasimhan](https://twitter.com/karthik_r_n) is a PhD candidate at CSAIL working on natural language understanding and deep reinforcement learning. His talk focused on task-optimized representations to reduce dependence on  annotation. The session built up to a demonstration of how reinforcement learning can enhance traditional NLP systems in low resource scenarios. In particular, he described an autonomous agent that can learn to acquire and integrate external information to improve information extraction. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZdGNKTi1BTk5VUUE/view?usp=sharing)
 
 <p align="center"><img src="http://i.imgur.com/J14Z7ai.png" width="350" align="middle"></p>
+
+
+#### Neural Network Design Using RL
+
+* [Bowen Baker](https://bowenbaker.github.io) recently completed his graduate work at the MIT Media Lab. His presentation touched on practical CNN meta-modeling. He now is continuing his work as a member of the research team at OpenAI. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZTkIwcUd2c1F4cjA/view?usp=sharing)
+
+<p align="center"><img src="https://i.imgur.com/GgWfJVw.png" width="350" align="middle"></p>
