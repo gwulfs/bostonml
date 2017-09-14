@@ -227,6 +227,6 @@
 
 #### Neural Network Design Using RL
 
-* [Bowen Baker](https://bowenbaker.github.io) recently completed his graduate work at the MIT Media Lab. His presentation touched on practical CNN meta-modeling. He now is continuing his work as a member of the research team at OpenAI. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZTkIwcUd2c1F4cjA/view?usp=sharing)
+* [Bowen Baker](https://bowenbaker.github.io) recently completed his graduate work at the MIT Media Lab. His presentation touched on practical CNN meta-modeling. He now is continuing his work as a member of the research team at OpenAI. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZTkIwcUd2c1F4cjA/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=zs80AB3tCUQ&feature=youtu.be)
 
 <p align="center"><img src="https://i.imgur.com/GgWfJVw.png" width="350" align="middle"></p>
