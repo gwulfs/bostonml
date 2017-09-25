@@ -26,6 +26,7 @@
   * [Automated Machine Learning](#automated-machine-learning)
   * [Grounding Natural Language with Autonomous Interaction](#grounding-natural-language-with-autonomous-interaction)
   * [Neural Network Design Using RL](#neural-network-design-using-rl)
+  * [AI for Enterprise](#ai-for-enterprise)
 
 
 
@@ -230,3 +231,10 @@
 * [Bowen Baker](https://bowenbaker.github.io) recently completed his graduate work at the MIT Media Lab. His presentation touched on practical CNN meta-modeling. He now is continuing his work as a member of the research team at OpenAI. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZTkIwcUd2c1F4cjA/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=zs80AB3tCUQ&feature=youtu.be)
 
 <p align="center"><img src="https://i.imgur.com/GgWfJVw.png" width="350" align="middle"></p>
+
+
+#### AI for Enterprise
+
+* [Sophie Vandebroek](https://www.linkedin.com/in/sophievandebroek) is the COO at IBM Research, and discussed applications of her teams work. [Ruchir Puri](https://scholar.google.com/citations?user=HTf7H58AAAAJ&hl=en) is the Chief Architect of Watson, and presented on challenges related to deploing machine learning systems. [Video](https://www.youtube.com/watch?v=LnMHdyvc-nE)
+
+<p align="center"><img src="https://i.imgur.com/dwn2g0f.jpg" width="350" align="middle"></p>
