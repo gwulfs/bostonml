@@ -194,7 +194,7 @@
 
 #### Virtual Currency Trading
 
-* [Anders Brownworth](https://twitter.com/nlintz) is a principle engineer at Circle and was previously an instructor at the MIT Media Lab. His talk focused on building the intution needed with respect to the blockchain and bitcoin to develop succesful trading stratagies. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZOVhJWVVxZWMyXzg/view?usp=sharing) | [Video](http://anders.com/blockchain) | [Hacker News](https://news.ycombinator.com/item?id=13566951)
+* [Anders Brownworth](https://twitter.com/anders94) is a principle engineer at Circle and was previously an instructor at the MIT Media Lab. His talk focused on building the intution needed with respect to the blockchain and bitcoin to develop succesful trading stratagies. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZOVhJWVVxZWMyXzg/view?usp=sharing) | [Video](http://anders.com/blockchain) | [Hacker News](https://news.ycombinator.com/item?id=13566951)
 
 <p align="center"><img src="http://i.imgur.com/R8IN6HX.png" width="350" align="middle"></p>
 
