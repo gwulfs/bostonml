@@ -102,7 +102,7 @@
 
 #### Bayesian Methods
 
-* [Allen Downey](https://twitter.com/allendowney) is a Professor of Computer Science at Olin College. His talk focused on an application of bayesian statistics from World War II. [Slides](https://docs.google.com/presentation/d/1Ec2KkdOSk1DVUrN9i-Q8gkxO8FXEVjEFGaQxy5T5KOk/pub?slide=id.p) | [Video](https://vimeo.com/127273771)
+* [Allen Downey](https://twitter.com/allendowney) is a Professor of Computer Science at Olin College. His talk focused on an application of bayesian statistics from World War II. [Slides](https://docs.google.com/presentation/d/1Ec2KkdOSk1DVUrN9i-Q8gkxO8FXEVjEFGaQxy5T5KOk/pub?slide=id.p) | [Video](https://www.youtube.com/watch?v=iQLozVBZ_VI)
 
 * [José Miguel Hernández Lobato](http://jmhl.org) is a Postdoc at Harvard's [Intelligent Probabilistic Systems Lab](http://hips.seas.harvard.edu) and presented on bayesian optimization and information-based approaches.  [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZZFptMExPN2dVbDQ/view?usp=sharing)
 
