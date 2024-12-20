@@ -73,7 +73,7 @@
 
 #### Semi-supervised Learning
 
-* [Eli Brown](http://www.eecs.tufts.edu/~ebrown/) is an Assistant Professor of Computer Science at DePaul. His talk focused on using interactive visualizations to help users leverage learning algorithms. [Slides](http://goo.gl/jIwMzc) | [Paper](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6400486)
+* Eli Brown(https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1311) is an Assistant Professor of Computer Science at DePaul. His talk focused on using interactive visualizations to help users leverage learning algorithms. [Slides](http://goo.gl/jIwMzc) | [Paper](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6400486)
 
 <p align="center"><img src="http://i.imgur.com/kJzIJdi.png?2" width="350" align="middle"></p>
 
@@ -120,7 +120,7 @@
 
 #### Techniques for Dimensionality Reduction
 
-* [Dan Steinburg](https://www.linkedin.com/in/steinbergdaniel) is a PhD student in intelligent systems at the University of Pittsburgh. His talked introduced various techniques for dimensionality reduction including PCA, multidimensional scaling, isomaps, locally linear embedding, and laplacian eigenmaps. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZa0RjejlEeEpGTlE/view?usp=sharing)
+* [Dan Steinburg](https://www.dannyadam.com) is a PhD student in intelligent systems at the University of Pittsburgh. His talked introduced various techniques for dimensionality reduction including PCA, multidimensional scaling, isomaps, locally linear embedding, and laplacian eigenmaps. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZa0RjejlEeEpGTlE/view?usp=sharing)
 
 <p align="center"><img src="http://i.imgur.com/QxDzHKK.png" width="350" align="middle"></p>
 
@@ -136,7 +136,7 @@
 
 #### Introduction to Markov Decision Processes
 
-* [Alborz Geramifard](https://www.linkedin.com/in/alborzgeramifard) is a Research Scientist at Amazon and lead an introductory workshop on MDPs with RLPy. [Paper](http://jmlr.org/papers/v16/geramifard15a.html) | [Code](https://github.com/rlpy/rlpy) | [Slides](https://drive.google.com/file/d/0B8QYED722BIxeFhSV3o4ZTE4ekk/view)
+* [Alborz Geramifard](https://www.linkedin.com/in/alborzgeramifard) is a Research Scientist at Amazon and lead an introductory workshop on MDPs with RLPy. [Paper](http://jmlr.org/papers/v16/geramifard15a.html) | [Code](https://github.com/rlpy/rlpy)
 
 <p align="center"><img src="http://i.imgur.com/7vXMttJ.png" width="350" align="middle"></p>
 
@@ -153,7 +153,7 @@
 
 #### Operationalizing Data Science Output
 
-* [Tom LaGatta](https://www.linkedin.com/in/lagatta) is a Senior Data Scientist & Analytics Architect at Splunk. His session focused on aligning data science output with operational workflows. [Slides](https://splunk.app.box.com/v/operationalizing-ml)
+* [Tom LaGatta](https://www.linkedin.com/in/lagatta) is a Senior Data Scientist & Analytics Architect at Splunk. His session focused on aligning data science output with operational workflows.
 
 <p align="center"><img src="http://i.imgur.com/vp84RZx.png" width="350" align="middle"></p>
 
@@ -202,13 +202,13 @@
 
 #### NSFW Modeling with ConvNets
 
-* [Ryan Compton](https://twitter.com/rycpt) is a data scientist at Clarifai. His talk used the problem of nudity detection to illustrate the workflow involved with training and evaluating convolutional neural networks. He also discussed deconvolution and demonstrated how it can be used to visualize intermediate feature layers. [Slides](https://docs.google.com/presentation/d/14SNvMFqyqd3qlKvibc06GkB1lLmDutzcr04uJ_LnX4s) | [Video](https://www.youtube.com/watch?v=EhtRDT-3CC4)
+* [Ryan Compton](https://twitter.com/rycpt) is a data scientist at Clarifai. His talk used the problem of nudity detection to illustrate the workflow involved with training and evaluating convolutional neural networks. He also discussed deconvolution and demonstrated how it can be used to visualize intermediate feature layers. [Video](https://www.youtube.com/watch?v=EhtRDT-3CC4)
 
 <p align="center"><img src="http://i.imgur.com/3P15W4K.png" width="350" align="middle"></p>
 
 #### Structured Attention Networks
 
-* [Yoon Kim](http://yoon.io) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
+* [Yoon Kim]([http://yoon.io](https://people.csail.mit.edu/yoonkim) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
 
 <p align="center"><img src="http://i.imgur.com/L2DqfeS.png" width="350" align="middle"></p>
 
