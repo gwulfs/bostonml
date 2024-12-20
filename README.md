@@ -208,7 +208,7 @@
 
 #### Structured Attention Networks
 
-* [Yoon Kim]([http://yoon.io](https://people.csail.mit.edu/yoonkim) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
+* [Yoon Kim](https://people.csail.mit.edu/yoonkim) is Phd Student in computer science at Harvard. This session gave an overview of attention mechanisms and structured prediction before introducing a method for combining the two ideas by way of graphical models. [Slides](https://drive.google.com/file/d/0BwC1eSaTX5cZMVhqWXJncDlkTHc/view?usp=sharing) | [Code](https://github.com/harvardnlp/struct-attn)
 
 <p align="center"><img src="http://i.imgur.com/L2DqfeS.png" width="350" align="middle"></p>
 
